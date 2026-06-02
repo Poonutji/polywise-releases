@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Polywise</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 02 Jun 2026 10:57:23 -0800</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Poonutji/polywise-releases/releases/download/v0.1.0/Polywise-0.1.0.zip" length="2734065" type="application/octet-stream" sparkle:edSignature="jkwOGWGyDR6CoGbtVh2U9BZhd8yOlwTliCGwWVWoO3afmjuT7IRL0cK+n3UMpxwsQWjGXoP1rYy+40xA6VteBA=="/>
+        </item>
+    </channel>
+</rss>
