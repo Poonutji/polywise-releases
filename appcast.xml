@@ -3,13 +3,13 @@
     <channel>
         <title>Polywise</title>
         <item>
-            <title>0.1.70</title>
-            <pubDate>Sat, 20 Jun 2026 19:18:06 -0800</pubDate>
-            <sparkle:version>122</sparkle:version>
-            <sparkle:shortVersionString>0.1.70</sparkle:shortVersionString>
+            <title>0.1.71</title>
+            <pubDate>Sat, 20 Jun 2026 19:33:51 -0800</pubDate>
+            <sparkle:version>123</sparkle:version>
+            <sparkle:shortVersionString>0.1.71</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Poonutji/polywise-releases/releases/download/v0.1.70/Polywise-0.1.70.zip" length="6483460" type="application/octet-stream" sparkle:edSignature="Cl67XIupy///kl2BDugJXSk7uczzZ9W2PyiAn+jA2vIJ52dXItbC/n6bxQ+X2ZNs7evlT2J9EYLB+Wb1eDxADw=="/>
+            <enclosure url="https://github.com/Poonutji/polywise-releases/releases/download/v0.1.71/Polywise-0.1.71.zip" length="6484106" type="application/octet-stream" sparkle:edSignature="TGwyrEQ42ejIz7KK2NWbCCySM56lvImMyJcRgNaM8rtFeZ+I/7AXc0ipX+QFcgMljpN/ocjJcmA/mqVVrVsIAA=="/>
         </item>
     </channel>
 </rss>
